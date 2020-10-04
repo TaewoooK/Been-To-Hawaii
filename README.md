@@ -1,4 +1,4 @@
-# mindfullness
+# Hawaii COVID 19 Map Tracker
 
 A new Flutter application.
 
