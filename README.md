@@ -2,11 +2,11 @@
 
 A new Flutter application.
 
-INSPIRATION
+# INSPIRATION
 
 With the rising cases of COVID 19, there should be a easily accessible way for people to track where they have travelled and the risks that they take. An interactive map is the best solution as it is a simple way for users to find their location and save where they have been.
 
-WHAT IT DOES
+# WHAT IT DOES
 
 This app allowed the user to choose a county in Hawaii and save it into their database. With this, they are able to track where they have been and know the local COVID 19 case numbers.
 
